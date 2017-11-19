@@ -1,0 +1,4 @@
+baseURL = "http://loveatfirstride.com"
+languageCode = "en-us"
+title = "Love At First Ride"
+theme = "hugo-tracks-theme"
