@@ -1,7 +1,8 @@
-baseurl = "https://loveatfirstride.com"
+baseurl = "http://loveatfirstride.com"
 title = "Love At First Ride"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
+publishDir = "loveatfirstride.github.io"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
